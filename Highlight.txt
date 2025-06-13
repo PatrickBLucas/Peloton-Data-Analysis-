@@ -1,0 +1,1 @@
+Using Google Action Scripts, I hooked into Fitbit's data silo where it downloads my personal data every two hours or when I force it. It also hooks into my Peloton data in a similar way. I created a dashboard that logs key metrics and charts them. It also automatically fills in my exercise log for my health insurance discount. 
